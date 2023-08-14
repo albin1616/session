@@ -1,5 +1,5 @@
 /**
- * 
+ * this function is used for check palindrome or not
  * @param {number} str must beanumber
  * @returns a result
  */
