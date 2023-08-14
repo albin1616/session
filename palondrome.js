@@ -1,3 +1,8 @@
+/**
+ * 
+ * @param {number} str must beanumber
+ * @returns a result
+ */
 function isPalindrome(str) {
     str = str.toLowerCase().replace(/[^a-z0-9]/g, ''); // Remove non-alphanumeric characters and convert to lowercase
     const length = str.length;
